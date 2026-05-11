@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourdomain.pages.dev/sitemap.xml
+Sitemap: https://toolkit-6g6.pages.dev/sitemap.xml
+ 
